@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Models;
-using MvcMovie;
+using WebApplication1;
 
 namespace MvcMovie
 {
